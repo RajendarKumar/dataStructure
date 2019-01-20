@@ -2,7 +2,7 @@ package com.dataStructure.rk.Tree;
 
 import java.util.Stack;
 
-public class InorderItrativeTraversal {
+public class InorderIterativeTraversal {
 
 	public static void main(String[] args) {
 		Node root = new Node(new Node(new Node(new Node(null, 5, null), 4, new Node(null, 7, null)), 2, new Node(null, 8, null)),  1, new Node(new Node(null, 9, null), 3, new Node(null, 6, null)));
